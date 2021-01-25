@@ -11,7 +11,7 @@ Implemented
 
 - Example of the config file located in config.example.json.
 
-- Three endpoints for route /user (POST, GET, DELETE)
+- Three endpoints for route /user (POST, GET, PUT). POST, PUT Route accepts data in JSON format  
 
 - Sequelize model of User entity for ORM manipulation with data
 
